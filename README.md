@@ -1,2 +1,2 @@
 # FormlarlaCalismak
-[https://app.patika.dev/-](https://app.patika.dev/)
+[Patika.dev](https://app.patika.dev/)
